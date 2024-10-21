@@ -1,0 +1,33 @@
+name: Sugerencia de Funcionalidad
+description: Sugiere las funcionalidades 
+title: "[Enhancement]: "
+labels: ["enhancement"]
+projects: ["Brain-DuCO/15"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        En el Universo Arithmental nos encanta escuchar a nuestros usuarios. 
+        Si tienes alguna sugerencia de algo que te gustaria ver o crees que algo se podria hacer de una mejor manera, nuestro equipo estara dispuesto a escucharte!
+  - type: input
+    id: contact
+    attributes:
+      label: Detalles de Contacto
+      description: Como podemos contactarnos contigo si necesitamos mas informacion?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Cuentanos tu idea!
+      description: Danos todos los detalles de la idea!
+      placeholder: En la pantalla de Feedback creo que podrian agregar....
+    validations:
+      required: true
+ - type: markdown
+    attributes:
+      value: |
+      En los proximos dias nuestro equipo dara una respuesta a tu propuesta. Muchisimas gracias de antemano
+        
+ 
