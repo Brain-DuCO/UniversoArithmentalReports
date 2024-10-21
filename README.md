@@ -20,7 +20,7 @@ Puedes sugerir una funcionalidad utilizando nuestro formulario de [Sugerencias d
 
 Estamos creando una comunidad increíble en nuestra página de Facebook. ¡Nos encantaría que te unieras!
 
-[Visítanos en Facebook]([https://www.facebook.com/tu-pagina-aqui](https://www.facebook.com/share/g/2f2i6JGcNJZun2rV/))
+[Visítanos en Facebook](https://www.facebook.com/share/g/2f2i6JGcNJZun2rV)
 
 ## Regístrate en nuestra plataforma 🚀
 
