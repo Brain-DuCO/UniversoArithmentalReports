@@ -1,0 +1,37 @@
+name: Bug Report
+description: File a bug report.
+title: "[Bug]: "
+labels: ["bug"]
+projects: ["Brain-DuCO/15", "octo-org/44"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por tomarte el tiempo de reportar un error!
+  - type: input
+    id: contact
+    attributes:
+      label: Detalles de Contacto
+      description: Como podemos contactarnos contigo si necesitamos mas informacion?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Que sucedio?
+      description: Cuentanos los detalles de tu error?
+      placeholder: Dinos que vez!
+      value: "Sucedio este error!"
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: En que navegador sucedio esta experiencia?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
