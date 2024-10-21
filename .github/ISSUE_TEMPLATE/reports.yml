@@ -1,5 +1,5 @@
 name: Reporta un Error
-description: Ayudanos a encontrar problemas!
+description: ¡Ayúdanos a encontrar problemas!
 title: "[Bug]: "
 labels: ["bug"]
 projects: ["Brain-DuCO/15"]
@@ -7,35 +7,35 @@ body:
   - type: markdown
     attributes:
       value: |
-        Gracias por tomarte el tiempo de reportar un error!
+        ¡Gracias por tomarte el tiempo de reportar un error!
   - type: input
     id: contact
     attributes:
       label: Detalles de Contacto
-      description: Como podemos contactarnos contigo si necesitamos mas informacion?
+      description: ¿Cómo podemos contactarnos contigo si necesitamos más información?
       placeholder: ex. email@example.com
     validations:
       required: false
   - type: textarea
     id: what-happened
     attributes:
-      label: Que sucedio?
-      description: Cuentanos los detalles de tu error?
-      placeholder: Dinos que vez!
-      value: "Sucedio este error!"
+      label: ¿Qué sucedió?
+      description: Cuéntanos los detalles de tu error.
+      placeholder: ¡Dinos qué ves!
+      value: "¡Sucedió este error!"
     validations:
       required: true
   - type: dropdown
     id: browsers
     attributes:
-      label: En que navegador sucedio esta experiencia?
+      label: ¿En qué navegador sucedió esta experiencia?
       multiple: true
       options:
         - Firefox
         - Chrome
         - Safari
         - Microsoft Edge
- - type: markdown
+  - type: markdown
     attributes:
       value: |
-        Gracias por tomarte el tiempo de reportar este problema, de antemano perdon por esta experiencia! El equipo del Universo Arithmental trabajara rapido para que no vuelva a pasarle a nadie mas!
+        ¡Gracias por tomarte el tiempo de reportar este problema! De antemano, perdón por esta experiencia. El equipo del Universo Arithmental trabajará rápido para que no vuelva a pasarle a nadie más.
