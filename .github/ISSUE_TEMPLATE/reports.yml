@@ -1,8 +1,8 @@
-name: Bug Report
-description: File a bug report.
+name: Reporta un Error
+description: Ayudanos a encontrar problemas!
 title: "[Bug]: "
 labels: ["bug"]
-projects: ["Brain-DuCO/15", "octo-org/44"]
+projects: ["Brain-DuCO/15"]
 body:
   - type: markdown
     attributes:
@@ -35,3 +35,7 @@ body:
         - Chrome
         - Safari
         - Microsoft Edge
+ - type: markdown
+    attributes:
+      value: |
+        Gracias por tomarte el tiempo de reportar este problema, de antemano perdon por esta experiencia! El equipo del Universo Arithmental trabajara rapido para que no vuelva a pasarle a nadie mas!
