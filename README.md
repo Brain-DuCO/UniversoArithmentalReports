@@ -26,7 +26,7 @@ Estamos creando una comunidad increíble en nuestra página de Facebook. ¡Nos e
 
 Si aún no lo has hecho, regístrate en nuestra plataforma para acceder a todas las funcionalidades que ofrecemos. ¡Es gratis y muy fácil!
 
-[Speed Calculation]([https://www.tu-plataforma-aqui.com](https://speedcalculation.com/register))
+[Speed Calculation](https://speedcalculation.com/register)
 
 ---
 
